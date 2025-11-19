@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="baa9742a-9cc3-4609-b856-f14ca892e1da" name="Changes" comment="lesson 7">
       <change afterPath="$PROJECT_DIR$/Lesson 8/L8/Game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson 4/L4ThemeApp/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 4/L4ThemeApp/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson 8/L8/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 8/L8/App.js" afterDir="false" />
     </list>
@@ -128,7 +129,8 @@
       <workItem from="1762938964126" duration="514000" />
       <workItem from="1763002902793" duration="6267000" />
       <workItem from="1763037993047" duration="4432000" />
-      <workItem from="1763042580891" duration="21000" />
+      <workItem from="1763042580891" duration="38000" />
+      <workItem from="1763521689620" duration="62000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
