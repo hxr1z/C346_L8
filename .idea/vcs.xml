@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Lesson 1/L1testApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lesson 10/L10Submit" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Lesson 2/L2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Lesson 3/L3" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Lesson 4/L2boats" vcs="Git" />
@@ -11,5 +12,6 @@
     <mapping directory="$PROJECT_DIR$/Lesson 6/L06Quiz" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Lesson 7/L7" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Lesson 8/L8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lesson 9/L9Submit" vcs="Git" />
   </component>
 </project>
