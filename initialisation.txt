@@ -1,5 +1,8 @@
 npx create-expo-app@latest XXX --template blank
 import React from 'react';
+import { NavigationContainer } from '@react-navigation/native';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
+
 
 npm install @react-native-picker/picker
 
