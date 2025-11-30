@@ -4,18 +4,21 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baa9742a-9cc3-4609-b856-f14ca892e1da" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/Lesson 12/L12Submit/Add.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 12/L12Submit/Data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 12/L12Submit/Edit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 12/L12Submit/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 12/L12Submit/Navigation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="baa9742a-9cc3-4609-b856-f14ca892e1da" name="Changes" comment="ca1 submission update">
+      <change afterPath="$PROJECT_DIR$/CA1/Add.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CA1/Data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CA1/Edit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CA1/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CA1/Navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CA1/assets/AddTask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CA1/assets/CA1Narration.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CA1/assets/Home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CA1/assets/Status.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CA1/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/CA1/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CA1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/CA1/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CA1/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/CA1/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 12/L12Submit/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 12/L12Submit/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 12/L12Submit/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 12/L12Submit/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 12/L12Submit/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 12/L12Submit/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CA1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/CA1/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +36,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Lesson 11/L11Submit" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CA1" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -76,10 +79,10 @@
     "cidr.known.project.marker": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/C346_Projects",
+    "last_opened_file_path": "C:/C346_Projects/CA1/assets",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -93,11 +96,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\C346_Projects\CA1\assets" />
       <recent name="C:\C346_Projects\Lesson 11\L11Submit" />
       <recent name="C:\C346_Projects\Lesson 9\L9" />
       <recent name="C:\C346_Projects\Lesson 8" />
       <recent name="C:\C346_Projects\Lesson 7\L7" />
-      <recent name="C:\C346_Projects\Lesson 4\L4\assets\fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\C346_Projects\Lesson 8\L8" />
@@ -144,7 +147,8 @@
       <workItem from="1764126192159" duration="14000" />
       <workItem from="1764126754559" duration="6076000" />
       <workItem from="1764213381503" duration="20000" />
-      <workItem from="1764213985508" duration="3443000" />
+      <workItem from="1764213985508" duration="4200000" />
+      <workItem from="1764488361555" duration="7229000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -202,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764132758468</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update">
+      <option name="closed" value="true" />
+      <created>1764218384352</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1764218384352</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +251,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson 7" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="ca1 submission" />
+    <MESSAGE value="ca1 submission update" />
+    <option name="LAST_COMMIT_MESSAGE" value="ca1 submission update" />
   </component>
 </project>
